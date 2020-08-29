@@ -1,14 +1,14 @@
-# Information / Информация
+# Information
 
 Архетипы для типов контента.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-archetypes.git archetypes
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
